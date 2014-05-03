@@ -1,3 +1,9 @@
+---
+layout: post
+title: How I setup my blog
+category: Testing
+---
+
 <!doctype html>
 <html>
 
