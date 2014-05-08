@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (TEST) Part two on how I built my blog
+title: Part two on how I built my blog
 category: Coding
 tags: jekyll github rss
 year: 2012

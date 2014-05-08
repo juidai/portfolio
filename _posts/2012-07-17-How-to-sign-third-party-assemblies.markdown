@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (TEST) How to sign third party assemblies without compiling
+title: How to sign third party assemblies without compiling
 category: Coding
 tags: dotnet 
 year: 2012

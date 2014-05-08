@@ -1,11 +1,11 @@
 ---
 layout: post
-title: (TEST) How I built my blog in one day
+title: How I built my blog in one day
 category: Coding
 tags: jekyll bootstrap github disqus
-year: 2014
-month: 5
-day: 3
+year: 2012
+month: 3
+day: 8
 published: true
 summary: A tutorial on how I built my blog
 image: post_one.jpg
